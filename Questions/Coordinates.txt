@@ -1,0 +1,9 @@
+|5|Calculate distance BE|5√2|117|
+|3|Calculate the length of MN.|2|147|
+|3|Calculate the length of PQ if OR.|1|147|
+|4|Determine the value of q.|1|148|
+|4|Calculate the length of BC.|7|148|
+|4|Calculate the length of CD.|2√8|149|
+|4|Calculate the length of AB.|8|149|
+|4|Calculate the length EF, given G(-2,0).|2|149|
+|4|Calculate the coordinates of D.|(-2, 9)|150|

@@ -1,0 +1,118 @@
+|2|Calculate the length x in nearest hundredth|4.24|202|
+|1|Calculate the length x|12|203|
+|1|Calculate the length x in nearest hundredth|7.28|204|
+|3|Calculate the length x in nearest hundredth|40|205|
+|3|Calculate the values of x and y. (x, y)|(2.75, 30)|206|
+|1|Calculate the values of x. |25|207|
+|1|Calculate the values of x. |145|208|
+|1|Calculate the values of x. |60|210|
+|2|Calculate the values of x. |36|211|
+|3|Calculate the values of x and y. (x, y)|(6, 10)|212|
+|4|∠F1 = 3x + 20° ; ∠G1 = x + 10° . Calculate the values of x.|15|213|
+|1|Identify the side that is parallel to PR in correct order. |TS|214|
+|1|Identify the side that is parallel to YZ in correct order. |XV|215|
+|2|Determine the value of ∠DEC |39|216|
+|2|Complete the following statement correctly by giving the three vertices in the correct order (there is only one correct answer). △DEC is equal to △? |DAB|216|
+|2|Determine the value of ∠NMQ |98|217|
+|2|Complete the following statement correctly by giving the three vertices in the correct order (there is only one correct answer). △QMN is equal to △? |QRP|217|
+|2|Determine the value of x.|5|218|
+|2|Find the length of JK.|9|219|
+|2|Find the length of KL.|11|220|
+|3|You are now told that PR has a length of 2. What is the value of z|12|221|
+|3|You are now told that ∠M has a length of 2. What is the value of b.Give your answer as an exact fractional value. |19/2|222|
+|3|You are now told that ∠RPQ has a measure of 60◦ . Solve for the value of d. Give your answer as an exact fractional value.|20/3|223|
+|4|Calculate a and B. (a, b)|(5, 12)|224|
+|3|What type trianlge is △STU|isosceles|225|
+|4|If ∠RTU = 68° calculate, find the size of ∠TSU|44|225|
+|5|Find the side that has the length of FE. Write in point in alphabetical order|DE|226|
+|2|Find the distance between S(-2, 5) and Q(7, 2) in nearest tenth|9.5|-1|
+|4|Given RS = 13, R (3, 9) and S (8, y). Find y.|-3,21|120|
+|2|Calculate the length of line AB, correct to 2 decimal places.|6.71|227|
+|2|Calculate the length of line AB, correct to 2 decimal places.|2.24|228|
+|3|The distance between the points is 3.6056. Calculate the missing coordinate of point B to nearest oneth.|1|229|
+|3|The distance between the points is 7.2111. Calculate the missing coordinate of point B to nearest tenth.|3.5|230|
+|2|Find the length of AB for A(2, 7) and B(−3, 5). Leave your answer in surd form.|√29|-1|
+|2|Find the length of AB for A(-3, 5) and B(−9, 1). Leave your answer in surd form.|√52|-1|
+|2|Find the length of AB for A(x, y) and B(x+4, y-1). Leave your answer in surd form.|√17|-1|
+|4|The length of CD = 5. Find the missing coordinate if C(6, −2) and D(x, 2).|3, 9|120|
+|4|The length of CD = 5. Find the missing coordinate if C(4, y) and D(1, -1).|-5, 3|120|
+|4|If the distance between C(0; −3) and F(8; p) is 10 units, find the possible values of p.|3, -9|120|
+|1|Find the gradient of the line between points E (2, 5) and F (−3, 9).|-4/5|8|
+|2|Given G (7, −9) and H (x, 0), with mGH = 3, find x.|10|-1|
+|1|Find the gradient of AB if: A(7, 10) and B(−4, 1)|9/11|-1|
+|1|Find the gradient of AB if: A(-5, -9) and B(3, 2)|11/8|-1|
+|1|Find the gradient of AB if: A(x − 3, y) and B(x, y + 4)|4/5|-1|
+|1|Calculate the gradient (m) of line AB. Give answer in decimal|-0.5|231|
+|1|Calculate the gradient (m) of line AB. Give answer in decimal|1.5|232|
+|2|If the gradient of CD = 2/3 , find p given: C(16, 2) and D(8, p).|-10/3|8|
+|2|If the gradient of CD = 2/3 , find p given: C(3, 2p) and D(9, 14).|5|8|
+|2|In the following diagram line AB has a gradient (m) of 2. Calculate the missing co-ordinate of point B.|4|233|
+|3|You also told that line AB has a gradient (m) of −1,5. Calculate the missing co-ordinate of point B.|3|234|
+|3|Find the equation of the straight line through P (−1, −5) and Q (5, 4).|y=3x/2 - 7/2|69|
+|4|Line AB is perpendicular to line CD. Find y given A (2, −3), B (−2, 6), C (4, 3) and D (7, y).|13/3|-1|
+|3|A (−3, 3), B (0, y) and C (3, 7) are on a straight line. Find y|5|-1|
+|3|Determine whether AB and CD are parallel, perpendicular or neither if A(3, −4), B(5, 2), C(−1, −1), D(7, 23)|parallel|-1|
+|3|Determine whether AB and CD are parallel, perpendicular or neither if A(3, −4), B(5, 2), C(−1, −1), D(0, -4)|neither|-1|
+|3|Determine whether AB and CD are parallel, perpendicular or neither if A(3, −4), B(5, 2), C(−1, 3), D(-2, 3)|parallel|-1|
+|3|Determine whether E(0, 3), F(−2, 5), G(2, 1) is collinear or not|collinear|-1|
+|3|Determine whether E(-3, -5), F(0, 0), G(6, 10) is collinear or not|collinear|-1|
+|3|Determine whether E(-6, 2), F(−3, 1), G(1, -1) is collinear or not|not|-1|
+|3|Calculate the equation of the line AB in the following diagram.|y=-2x+1/2|69, 235|
+|3|Calculate the equation of the line AB in the following diagram.|y=x/2-1/2|69, 236|
+|2|Points P(−6, 2), Q(2, −2) and R(−3, r) lie on a straight line. Find the value of r in fraction|1/2|-1|
+|2|Points P(−6, 2), Q(2, −2) and R(−3, r) lie on a straight line. Find the value of r in fraction|1/2|-1|
+|2|Line PQ with P(−1, −7) and Q(q, 0) has a gradient of 1. Find q.|6|-1|
+|2|Find the equation of the line AB.|y=x-2|69, 237|
+|2|Find the equation of the line AB. Use decimal|y=-x+1.5|69, 237|
+|3|Given line AB which runs parallel to y = 0.5x − 6. Points A(−1, −2.5) and B(x, 0) are also given. Calculate the missing co-ordinate of point B.|4|-1|
+|3|Given line AB which runs parallel to y = -1.5x + 4. Points A(−2, 4) and B(2, y) are also given. Calculate the missing co-ordinate of point B.|-2|-1|
+|3|The blue dashed line is perpendicular to AB.The equation of the blue dashed line is y = x + 1. Determine the equation of line AB.|y=-x+2|69. 239|
+|3|The blue dashed line is perpendicular to AB.The equation of the blue dashed line is y = -0.5x - 0.5. Determine the equation of line AB. Use decimal|y=2x-1.5|69, 240|
+|4|Given line AB which runs perpendicular to line CD with equation y = −2x + 1. Points A(−5, −1) and B(3, a) are also given. Calculate the missing co-ordinate of point B.|3|-1|
+|4|Given line AB which runs perpendicular to line CD with equation y = 2x - 0.75. Points A(−5, 1) and B(a, -2.5) are also given. Calculate the missing co-ordinate of point B.|-2|-1|
+|2|You are told that line AB has the following equation: y = −0.5x + 1.5. Calculate the missing co-ordinate of point B.|0.5|241|
+|2|You are told that line AB has the following equation: y = 0.5x - 1. Calculate the missing co-ordinate of point B.|-0.5|242|
+|4|A is the point (−3, −5) and B is the point (n, −11). AB is perpendicular to line CD with equation y = 3x/2 − 5. Find the value of n.|6|-1|
+|4|The points A(4, −3), B(−5, 0) and C(−3, p) are given. Determine the value of p if A, B and C are collinear.|-2/3|69|
+|5|Find the area of △ABC in decimal.|42.5|243|
+|5|The points A(−3; 1), B(3; −2) and C(9; 10) are given. Find the coordinates of D, if ABCD is a parallelogram. |(3, 13)|-1|
+|3|The points A(−3; 1), B(3; −2) and C(9; 10) are given. Find the equation of a line parallel to the line BC, which passes through the point A. |y=2x+12|69|
+|1|Find the mid-point of line AB, given A(6,2) and B(-5,1) Answer: (x, y) in fraction|(1/2, 1/2)|-1|
+|2|The line joining C (−2, 4) and D (x, y) has the mid-point M (1, −3). Find point D. Answer: (x, y)|(4, 10)|-1|
+|4|Points E (−1, 0), F (0, 3), G (8; 11) and H (x, y) are points on the Cartesian plane. Find H (x, y) if EFGH is a parallelogram.|(7, 8)|-1|
+|1|Calculate the coordinates of the mid-point (M) between point A(−1, 3) and point B(3, −3)|(1, 0)|-1|
+|2|Calculate the coordinates of the mid-point (M) between point A(−2, 1) and point B(1, −3.5) in decimal|(-0.5, -1.25)|-1|
+|1|Find the mid-points A(2, 5), B(−4, 7)|(-1, 6)|-1|
+|1|Find the mid-points A(5, 9), B(23, 55)|(14, 32)|-1|
+|1|Find the mid-points A(x+2, y-1), B(x−5, y-4)|((2x-3)/2, (2y-5)/2)|5|
+|2|The mid-point M of P Q is (3, 9). Find P if Q is (−2, 5).|(8,13)|-1|
+|4|PQRS is a parallelogram with the points P(5, 3), Q(2, 1) and R(7, −3). Find point S. Answer: (x, y)|(4, -5)|-1|
+|2|Calculate the length of line AB, correct to 2 decimal places.|9.81|244|
+|2|The distance between the points is 8.4853. Calculate the missing coordinate of point B in nearest oneth|3|245|
+|2|Calculate the gradient (m) of line AB. The coordinates are A(−1, −3,5) and B(2, 2,5).|2|246|
+|2|You are told that line AB has a gradient, m, of 0.5. Calculate the missing co-ordinate of point B.|4|247|
+|2|You are also told that line AB has a gradient, m, of 2. Calculate the missing co-ordinate of point B.|4|248|
+|3|Find the equation of line AB.|y=x/3 +3|69,249|
+|2|Calculate the length of AB.|√40|249|
+|3|You are told that line AB runs parallel to the following line: y = −1.5x − 4. Find the equation of the line AB. Use decimal|y=-1.5x-1|69, 250|
+|3|You are told that line AB runs parallel to the following line: y = x − 2. Calculate the missing co-ordinate of point B(x, 3).|2|251|
+|2|You are told that line AB runs perpendicular to the following line: y = -0.5x − 2. Calculate the missing co-ordinate of point.|0|252|
+|3|You are told that line AB runs perpendicular to the following line: y = x + 0.5. Determine the equation of line AB. Use decimal|y=-x-1.5|69, 253|
+|2|You also told that line AB has the following equation: y = −0.5x − 1.5. Calculate the missing co-ordinate of point B.|-4|254|
+|2|Calculate the coordinates of the mid-point (M) between point A(−2, −2,5) and point B(1, 3,5) correct to 1 decimal place.|(-0.5, -0.5)|255|
+|2|A(−2, 3)and B(2, 6) are points in the Cartesian plane. C(a, b) is the mid-point of AB. Find the values of a and b. (a, b). Use decimal|(0, 4.5)|-1|
+|4|Determine the equations of the following straight lines passing through P(5; 5) and Q(−2; 12).|y = −x + 10|69|
+|4|Determine the equations of the following straight lines parallel to y = 3x + 4 and passing through (4; 0).|y = 3x + 12|69|
+|4|Determine the equations of the following straight lines passing through F(2; 1) and the mid-point of GH where G(−6; 3) and H(−2; −3).|y = x/6 + 2/3|69|
+|3|Consider a quadrilateral ABCD with vertices A(3, 2), B(4, 5), C(1, 7) and D(1, 3). Find the lengths of the sides Answer: (Small side, big side)|(3, √10)|-1|
+|5|EFGH is a parallelogram with vertices E(−1; 2), F(−2; −1) and G(2; 0). Find the coordinates of H|(3,3)|-1|
+|4|Determine the coordinates of C|(11,8)|256|
+|5|A triangle has vertices A(−1; 7), B(8; 4) and C(5; −5).Find the area of the triangle ABC|45|-1|
+|3|A quadrilateral has vertices A(0; 5), B(−3; −4), C(0; −5) and D(4; k) where k ≥ 0. What should k be so that CD =√52?|1|-1|
+|3|On the Cartesian plane, the three points P(−3; 4), Q(7; −1) and R(3; b) are collinear. Find the value of b|y=-x/2 + 5/2|69|
+|4|A(−2; 4), B(−4; −2) and C(4; 0) are the vertices of △ABC. D and E(1; 2) are the mid-points of AB and AC respectively. Find equation of DE|y=x/4 + 7/4|69,257|
+|5|P(−3, 3), Q(1, −2), R(5, 1) and S(x, y) are the vertices of a parallelogram. Calculate the coordinates of S. Answer:(x, y)|(1,2)|-1|
+|5|The equation of QR is x − 3y = −6 and the equation of PR is x − y − 2 = 0. Find the equation of the line from P to S (the mid-point of QR).|y=2x-3|69,258|
+|5|Given: A(−3; −4), B(−1; −7), C(2; −5) and D(0; −2). What type of quadrilateral is ABCD?|sqaure|-1|
+|5|Write down the value of the ratio: area △OAB / area △OMN.|4|259|
+|5|Write down the coordinates of P such that OAP B is a parallelogram. Answer: (x, y)|(8, 12)|259|

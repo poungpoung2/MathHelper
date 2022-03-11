@@ -1,0 +1,27 @@
+|3|Given y = -4^x/2 + 3, calculate the y-intercept. Your answer must be correct to 2 decimal places.|(0, 2.5)|-1|
+|3|Given y = −4^x/2 + 3, calculate the x-intercept. Estimate your answer to one decimal place if necessary.|(1.3, 0)|-1|
+|3|Given y = −2(3)^x/3 + 1, calculate the y-intercept. Your answer must be correct to 2 decimal places.|(0, 0.33)|-1|
+|3|Given y = −2(3)^x/3 + 1, calculate the x-intercept. Estimate your answer to one decimal place if necessary.|(0.4, 0)|-1|
+|4|The graph here shows an exponential function with the equation y = a * 2^x + q. One point is given on the curve: Point A is at (−3, 3.875). Determine the values of a and q, correct to the nearest integer. Answer: (a, q)|(-1, 4)|88|
+|4|The graph here shows an exponential function with the equation y = a * 2^x + q. One point is given on the curve: Point A is at (−3, 4.875). Determine the values of a and q, correct to the nearest integer. Answer: (a, q)|(-1, 5)|89|
+|4|The graph here shows an exponential function with the equation y = a * 2^x + q. One point is given on the curve: Point A is at (−3, -3.625). Determine the values of a and q, correct to the nearest integer. Answer: (a, q)|(3, -4)|129|
+|3|Given y = 4^x / 4  -  1, calculate the y-intercept. Your answer must be correct to 2 decimal places.|(0, -0.75)|-1|
+|2|Given y = 4^x / 4  -  1, calculate the x-intercept.|(1, 0)|-1|
+|3|Identify a function matches y=2^x|g(x)|90|
+|3|Identify a function matches y=- 2^x|k(x)|90|
+|3|Identify a function matches y=2*2^x|f(x)|90|
+|3|Identify a function matches y=(1/2)^x|h(x)|90|
+|3|Identify a function matches y=-2(1/2)^x|h(x)|90|
+|3|Identify a function matches y= 3*2^x|f(x)|90|
+|3|Identify a function matches y= -2^x|k(x)|90|
+|3|Identify a function matches y= 3^x|g(x)|90|
+|3|Determine the equation of the function f|f(x)=3^x|92, 91|
+|3|Determine the equation of the function h(x), the reflection of f(x) in the x-axis.|h(x)=(-3)^x|92, 91|
+|3|Determine the range of the function h(x), the reflection of f(x) in the x-axis.|x<0|92, 91|
+|3|Determine the equation of the function g(x), the reflection of f(x) in the y-axis.|g(x)=3^(-x)|92, 91|
+|3|Determine the equation of the function j(x) if j(x) is a vertical stretch of f(x) by +2 units.|2*3^x|92, 91|
+|3|Determine the equation of the function k(x) if k(x) is a vertical shift of f(x) by −3 units.|3^x - 3|92, 91|
+|4|After a ball is dropped, the rebound height of each bounce decreases. The equation y = 5(0.8)^x shows the relationship between the number of bounces x and the height of the bounce y for a certain ball. What is the approximate height of the fifth bounce of this ball to the nearest tenth of a unit?|1.6|-1|
+|4|Determine the equations for the graphs.|y=-3x, y=x^2 - 3|119, 151|
+|4|Determine the equations for the graphs.|y = 4x + 1 and y = 3^x|119, 152|
+|2|The y-intercept of 2^x + 1 is: a) 3 b) 1 c) 2 d) 0|c|-1|

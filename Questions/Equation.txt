@@ -1,0 +1,146 @@
+|2|Solve for x: 4(2x − 9) − 4x = 4 − 6x|4|-1|
+|3|Solve for x: (2 − x) / (3x + 1) = 2|0|-1|
+|3|Solve for a: (2a − 3) / 3 − 3a = a/3|-3/8|-1|
+|1|Solve for y: 2y − 3 = 7|5|-1|
+|1|Solve for c: 2c = c − 8|-8|-1|
+|1|Solve for c: 3 = 1 − 2c|-1|-1|
+|1|Solve for b: 4b + 5 = −7|-3|8|
+|1|Solve for y: 3y = 0|0|8|
+|1|Solve for y: 16y + 4 = −10|-7/8|8|
+|1|Solve for y: 12y + 0 = 144|12|8|
+|1|Solve for y: 7 + 5y = 62|11|8|
+|2|Solve for x: 55 = 5x + 3/4|217/20|8|
+|2|Solve for x: 5x = 2x + 45|15|8|
+|2|Solve for x: 23x − 12 = 6 + 3x|9/10|8|
+|3|Solve for x: 12 − 6x + 34x = 2x − 24 − 64|− 50/13|8|
+|3|Solve for x: 6x + 3x = 4 − 5(2x − 3)|1|8|
+|1|Solve for p: 18 − 2p = p + 9|3|8|
+|1|Solve for p: 4/p = 16/24|6|8|
+|2|Solve for p: −(−16 − p) = 13p − 1|17/12|8|
+|2|Solve for f: 3f − 10 = 10|20/3|8|
+|2|Solve for f: 3f + 16 = 4f − 10|26|8|
+|2|Solve for f: 10f + 5 = −2f − 3f + 80|5|8|
+|2|Solve for f: 8(f − 4) = 5(f − 4)|4|8|
+|3|Solve for f: 6 = 6(f + 7) + 5f|-36/11|8|
+|2|Solve for x: −7x = 8(1 − x)|8|8|
+|4|Solve for b: 5 − 7/b = 2(b + 4) / b|5|8|
+|4|Solve for x: (x + 2) / 4 − (x − 6) / 3 = 1/2|24|8|
+|3|Solve for a: 1 = (3a − 4) / (2a + 6)|10|8|
+|4|Solve for a: (2 − 5a) / 3 − 6 = 4a/3 + 2 − a|-22/6|8|
+|4|Solve for b: 2 − 4 / (b + 5) = 3b / (b + 5)|6|8|
+|3|Solve for y: 3 − (y − 2) / 4 = 4|-2|8|
+|3|Solve for x: 1.5x + 3.125 = 1.25x|-12.5|8|
+|4|Solve for x: 1.3(2.7x + 1) = 4.1 − x|280/451|8|
+|3|Solve for x: 6.5x − 4.15 = 7 + 4.25x|223/45|8|
+|3|Solve for p: p/3 + p/2 − 10 = 0|12|8|
+|4|Solve for x: 1.25(x − 1) − 1.5(3x + 2) = 0|−17/13|8|
+|4|Solve for x: (x − 1)/5 = (x − 2)/3 + 3|−19|8|
+|3|Solve for a: 5/2a + 1/6a − 3/a = 2|−1/6|8|
+|3|Solve for x: 3x^2 + 2x − 1 = 0|−1,1/3|7|
+|3|Write (r + 4)(5r − 4) = −16 in standard form|5r^2 + 16r = 0|8|
+|4|Write (3r − 8)(2r − 3) = −15 in standard form|6r^2 − 25r + 39 = 0|8|
+|3|Write (d + 5)(2d + 5) = 8 in standard form|2d^2 + 15d + 17 = 0|8|
+|3|Write (d + 5)(2d + 5) = 8 in standard form|2d^2 + 15d + 17 = 0|8|
+|3|Solve for x: x^2 + 2x − 15 = 0|-5, 3|7|
+|3|Solve for p: p^2 − 7p − 18 = 0|-2, 9|7|
+|3|Solve for x: 9x^2 − 6x − 8 = 0|-2/3, 4/3|7|
+|4|Solve for x: 5x^2 + 21x − 54 = 0|-6, 9/5|7|
+|3|Solve for x: 4z 2 + 12z + 8 = 0|-2, -1|7|
+|3|Solve for b: −b^2 + 7b − 12 = 0|3,4|7|
+|3|Solve for a: −3a^2 + 27a − 54 = 0|3,6|7|
+|3|Solve for y: 4y^2 − 9 = 0|-3/2, 3/2|7|
+|3|Solve for x: 4x^2 + 16x − 9 = 0|- 9/2,1/2|7|
+|3|Solve for x: 4x^2 − 12x = −9|3/2|7|
+|2|Solve for m: 20m + 25m^2 = 0|-4/5, 0|7|
+|3|Solve for x: 2x^2 − 5x − 12 = 0|-3/2, 4|7|
+|4|Solve for x: −75x^2 + 290x = 240|6/5, 8/3|7|
+|4|Solve for x: 2x = x^2/3 − 3x + 44/3|4, 11|7|
+|2|Solve for x: x^2 − 4x = −4|2|8|
+|4|Solve for x: −x^2 + 4x − 6 = 4x^2 − 14x + 3|3/5, 3|7|
+|2|Solve for t: t^2 = 3t|0, 3|7|
+|2|Solve for x: x^2 − 10x = −25|5|7|
+|2|Solve for x: x^2 = 18|-√18, √18|7|
+|3|Solve for p: p^2 − 6p = 7|-1, 7|7|
+|3|Solve for x: 4x^2 − 17x − 77 = 0|-11/4, 7|7|
+|3|Solve for x: 14x^2 + 5x = 6|-6/7, 1/2|7|
+|3|Solve for x: 2x^2 − 2x = 12|-2, 3|7|
+|3|Solve for a: (2a − 3)^2 − 16 = 0|-1/2, 7/2|7|
+|3|Solve for a: (2a − 3)^2 − 16 = 0|-1/2, 7/2|7|
+|3|Solve for x: (x − 6)^2 − 24 = 1|1, 11|7|
+|3|Solve for y (note the restrictions that apply): 3y = 54 / 2y|-3, 3|7|
+|4|Solve for z (note the restrictions that apply): 10z/3 = 1 − 1/3z|-1/5, 1/2|7|
+|4|Solve for x (note the restrictions that apply): x + 2 = 18/x − 1|-6, 3|7|
+|4|Solve for y (note the restrictions that apply): y − 3 = 5/4 − 1/y|1/4, 4|7|
+|4|Solve for b (note the restrictions that apply): (b − 1)/2 = (2/b + 4)/3|1/4, 4|7|
+|4|Solve for y (note the restrictions that apply): 3(y + 1) = 4/y + 2|-4/3, 1|70|
+|4|Solve for x (note the restrictions that apply): (x + 1^)2 − 2(x + 1) − 15 = 0|-4, 4|7|
+|3|Solve for z (note the restrictions that apply): z^4 − 1 = 0|-1, 1|7|
+|3|Solve for b (note the restrictions that apply): b^4 − 13b^2 + 36 = 0|-3, -2, 2, 3|7|
+|5|Solve for a (note the restrictions that apply): (a + 1)/(3a − 4) + 9/(2a + 5) + (2a + 3)/(2a + 5) = 0|-43/8, 1|7|
+|4|Solve for x (note the restrictions that apply): (x^2 − 2x − 3)/(x + 1) = 0|3|7|
+|3|Solve for x (note the restrictions that apply): x + 2 = (6x − 12)/(x − 2)|4|7|
+|5|Solve for a (note the restrictions that apply): (3(a^2 + 1) + 10a) / (3a + 1) = 1|-2|8|
+|5|Solve for a (note the restrictions that apply): 3/ (9a^2 − 3a + 1) − (3a + 4) / (27a^3 + 1) = 1/ (9a^2 − 1)|0,2/3|7|
+|1|Solve for a: 5a − 7 = −2|1|8|
+|1|Solve for m: 5m + 3 = −2|-1|8|
+|1|Solve for y: 1 = 4 − 3y|1|8|
+|2|Solve for p: 2(p − 1) = 3(p + 2)|-8|8|
+|2|Solve for k: 3 − 6k = 2k − 1|1/2|8|
+|3|Solve for x: 2.1x + 3 = 4.1 − 3.3x|11/54|8|
+|3|Solve for m: m + 6(−m + 1) + 8m = 0|-2|8|
+|3|Solve for k: 2k + 3 = 2 − 3(k + 2)|-2|8|
+|3|Solve for q: 3 + q/5 = q/2|10|8|
+|3|Solve for z: 1/2 = (4z + 1) / (5z − 61)|-8/3|8|
+|4|Solve for a: 2 + (a − 4)/2 − a/3 = 7|42|8|
+|4|Solve for m: 5 − 2/(m + 4) m = 7/m|5|8|
+|4|Solve for t: 2/t − 2 − 1/2 = (1 + 2/t)/2|1/3|8|
+|3|Solve for b: b^2 + 6b − 27 = 0|-9, 3|8|
+|3|Solve for x: −x^2 + 5x + 6 = 0|-1, 6|8|
+|3|Solve for b: −b^2 − 3b + 10 = 0|-5, 2|8|
+|3|Solve for b: 2b − 15 = (b + 1)(b − 6) − b^2|9/7|8|
+|2|Solve for x: (5x + 1)(x − 3) = 0|-1/5, 3|8|
+|3|Solve for t: 5t − 1 = t^2 − (t + 2)(t − 2)|1|8|
+|4|Solve for a: (a + 2) / (a − 3) = (a + 8) / (a + 4)|-32|8|
+|4|Solve for n: (n + 3) / (n − 2) = (n − 1) / (n − 7)|-23|8|
+|2|Solve for x: x^2 − 3x + 2 = 0|1, 2|8|
+|3|Solve for y: y^2 + y =  6|-3, 2|8|
+|3|Solve for x: 0 = 2x^2 − 5x − 18|-9/2, 2|8|
+|5|Solve for d: (d + 4)(d − 3) − d = (3d − 2)^2 − 8d(d − 1)|4|8|
+|2|Solve the equations 4y + 3x = 100 and 4y − 19x = 12 simultaneously.|(4, 22)|9|
+|1|Solve the equations y = 2x + 1 and y = −x − 5 simultaneously.|(0, 2/3)|9|
+|2|Solve the equations 3x + y = 2 and 6x − y = 25 simultaneously.|(3, -7)|9|
+|3|Solve the equations 2a − 3b = 5 and 3a − 2b = 20 simultaneously.|(10, 5)|9|
+|2|Solve the equations y = 2x + 1 and y= −x − 5 simultaneously.|(-2, -3)|9|
+|2|Solve the equations y = 2x + 1 and y = −x − 1 simultaneously.|(2, -3)|9|
+|2|Solve the equations −10x = −1 and −4x + 10y = −9 simultaneously.|(1/10, -43/50)|9|
+|3|Solve the equations 3x − 14y = 0 and x − 4y + 1 = 0 simultaneously.|(-7, -3/2)|9|
+|2|Solve the equations x + y = 8 and 3x + 2y = 21 simultaneously.|(5, 3)|9|
+|2|Solve the equations y = 2x + 1 and x + 2y + 3 = 0 simultaneously.|(-1, -1)|9|
+|4|Solve the equations 5x − 4y = 69 and 2x + 3y = 23 simultaneously.|(13, -1)|9|
+|4|Solve the equations x + 3y = 26 and 5x + 4y = 75 simultaneously.|(11, 5)|9|
+|4|Solve the equations 3x − 4y = 19 and 2x − 8y = 2 simultaneously.|(9, 2)|9|
+|3|Solve the equations a/2 + b = 4 and a/4 − b/4 = 1 simultaneously.|(16/3, 4/3)|9|
+|3|Solve the equations −10x + y = −1 and −10x − 2y = 5 simultaneously.|(-1/10, -2)|9|
+|4|Solve the equations −10x − 10y = −2 and 2x + 3y = 2 simultaneously.|(-7/5, 8/5)|9|
+|4|Solve the equations 1/x + 1/y = 3 and 1/x − 1/y = 11 simultaneously.|(1/7, 8/5)|9|
+|2|Solve the equations y + 2x = 0 and y − 2x − 4 = 0 simultaneously.|(-1, 2)|9|
+|3|Solve the equations x + 2y = 1 and x/3 + y/2 = 1 simultaneously.|(9, -4)|9|
+|2|Solve the equations y − 2 = 6x and y − x = −3 simultaneously.|(-1, -4)|9|
+|2|Solve the equations 2x + y = 5 and 3x − 2y = 4 simultaneously.|(2, 1)|9|
+|1|Solve the equations 5 = x + y and x = y − 2 simultaneously.|(3/2, 7/2)|9|
+|1|Solve the equations y = 3x + 2 and y = 2x + 1 simultaneously.|(-1, -1)|9|
+|1|Solve the equations y = x + 4 and y = −2x + 1 simultaneously.|(-1, 3)|9|
+|1|Solve the equations 7x + 3y = 13 and 2x − 3y = −4 simultaneously.|(1, 2)|9|
+|1|Solve the equations 10 = 2x + y and y = x − 2 simultaneously.|(4, 2)|9|
+|3|Solve the equations 7x − 41 = 3y and 17 = 3x − y simultaneously.|(5, -2)|9|
+|3|Solve the equations 7x − 41 = 3y and 17 = 3x − y simultaneously.|(5, -2)|9|
+|3|Solve the equations 2x − 4y = 32 and 7x + 2y = 32 simultaneously.|(6, -5)|9|
+|2|Solve the equations 7x + 6y = −18 and 4x + 12y = 24 simultaneously.|(-6, 4)|9|
+|3|Solve the equations 3x − 4y = −15 and 12x + 5y = 66 simultaneously.|(3, 6)|9|
+|3|Solve the equations x − 3y = −22 and 5x + 2y = −25 simultaneously.|(-7, 5)|9|
+|3|Solve the equations 3x + 2y = 46 and 15x + 5y = 220 simultaneously.|(14, 2)|9|
+|3|Solve the equations 6x + 3y = −63 and 24x + 4y = −212 simultaneously.|(-8, -5)|9|
+|3|Solve the equations 5x − 6y = 11 and 25x − 3y = 28 simultaneously.|(1, -1)|9|
+|4|Solve the equations −9x + 3y = 4 and 2x + 2y = 6 simultaneously.|(5/12, 31/12)|9|
+|4|Solve the equations −3x − 7y = −10 and 10x + 2y = −6 simultaneously.|(-31/38, 41/38)|9|
+|4|Solve the equations (x + 1) / y = 7 and x / (y + 1) = 6 simultaneously.|(-31/38, 41/38)|9|

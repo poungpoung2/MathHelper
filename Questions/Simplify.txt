@@ -1,0 +1,60 @@
+|1|Simplify 3a/15|a/5|5|
+|1|Simplify (2a + 10)/4 **(Don't get rid of Brackets)**|(a+5)/2|5|
+|2|Simplify (a^2 − 4a) / (a − 4)|a|5|
+|2|Simplify (3a^2 − 9a) / (2a − 6)|3a/2|5|
+|2|Simplify (9a + 27) / (9a + 18)|(a + 3) / (a + 2)|5|
+|1|Simplify (6ab + 2a) / 2b|a(3b + 1) / b|5|
+|2|Simplify (16x^2y − 8xy) / (12x − 6)|4xy / 3|5|
+|2|Simplify (4xyp − 8xp) / 12xy|p(y−2)/3y|5|
+|3|Simplify (9x^2 − 16) / (6x − 8)|(3x + 4)/2|5|
+|3|Simplify (b^2 − 81a^2) / (18a − 2b) |-(b + 9) / 2|5|
+|3|Simplify (t^2 − s^2) / (s^2 − 2st + t^2)|(t + s) / (t - s)|5|
+|3|Simplify (x^2 − 2x − 15) / (5x − 25)|(x +3) / 5|5|
+|3|Simplify (x^2 + 2x − 15) / (x^2 + 8x + 15)|(x - 3) / (x + 3)|5|
+|3|Simplify (x^2 − x − 6) / (x^3 − 27)|(x + 2) / (x^2 + 3x + 9)|5|
+|3|Simplify (a^2 + 6a − 16) / (a^3 − 8)|(a + 8)/(a^2+2a+4)|5|
+|3|Simplify (a^2 − 4ab − 12b^2) / (a^2 + 4ab + 4b^2)|(a − 6b) / (a+2b)|5|
+|3|Simplify (6a^2 − 7a − 3) / (3ab + b)|(2a - 3)/b|5|
+|3|Simplify (2x^2 − x − 1) / (x^3 − x)|(2x+1)/x(x + 1)|5|
+|3|Simplify (qz + qr + 16z + 16r) / (z + r)|q + 16|5|
+|3|Simplify (pz − pq + 5z − 5q) / (z − q)|p + 5|5|
+|3|Simplify (hx − hg + 13x − 13g) / (x − g)|h + 13|5|
+|3|Simplify (f^2a − fa^2) / (f − a)|af|5|
+|4|Simplify { (b^2 + 10b + 21) ÷ 3(b^2 − 9) } / { (2b^2 + 14b) / (30b^2 − 90b) }|5|5|
+|4|Simplify { (x^2 + 17x + 70) ÷ 5(x^2 − 100) } / { (3x^2 + 21x) / (45x^2 − 450x) }|3|5|
+|4|Simplify { (z^2 + 17z + 66) ÷ 3(z 2 − 121) } / { (2z^2 + 12z) / (24z^2 − 264z) }|4|5|
+|3|Simplify { (3a + 9 ) /14 } / { (7a + 21) / (a + 3) }|2a^2(a − 5)/3(a + 5)^2|3(a + 3) / 98|
+|3|Simplify { (a^2 − 5a) / (2a + 10) } × { 4a / (3a + 15) }|2a^2(a-5) / 3(a+5)^2|5|
+|3|Simplify { (3xp + 4p) / 8p } ÷ { 12p^2 / (3x + 4) }|(3x + 4)^2 / 96p^2|5|
+|3|Simplify { (24a − 8) / 12 } ÷ { (9a − 3) / 6 }|4(3a−1)/ 3(a−1)|5|
+|3|Simplify { (a^2 + 2a) / 5 } ÷ { (2a + 4) / 20 }|2a|5|
+|3|Simplify { (p^2 + pq) / 7p } × { 21q / (8p + 8q) }|3q/8|5|
+|3|Simplify { (5ab − 15b) / (4a − 12) } ÷ { 6b^2 / (a + b) }|15b^3/2(a + b)|5|
+|4|Simplify { (16 − x^2) / (x^2 − x − 12) } × { (x + 3) / (x + 4) }|-1|5|
+|4|Simplify { (a^3 + b^3) / a3 } × { (5a + 5b) / (a^2 + 2ab + b^2) }|5(a^2 − ab + b^2)/a^3|5|
+|4|Simplify { (a − 4) / (a + 5a + 4) } × { (a^2 + 2a + 1) / (a^2 − 3a − 4) }|1/(a + 4)|5|
+|4|Simplify { (3x + 2) / (x^2 − 6x + 8) } ×{ (x − 2) / (3x^2 + 8x + 4) } |1/(x - 4)(x+2)|5|
+|5|Simplify { (a^2 − 2a + 8) / (a^2 + 6a + 8) } × { (a^2 + a − 12) / 3) } − 3/2 |(2a^2 − 14a + 15)/6|5|
+|5|Simplify { (4x^2 − 1) / (3x^2 + 10x + 3) } ÷ { (6x^2 + 5x + 1) / (4x^2 + 7x − 3) } × { (9x^2 + 6x + 1) / (8x^2 − 6x + 1) }|1|5|
+|3|Simplify { (x+3) / 3 } - { (x - 2) / 2 }  |-(x-14) / 6|5|
+|3|Simplify { (2x − 4) / 9 } − { (x − 3) / 4 } + 1 |-(x+47)/36|5|
+|4|Simplify 1 + { (3x − 4) / 4 } − { (x + 2 )/ 3 } |(5x − 8)/12|5|
+|4|Simplify { 11 / (a + 11) } + { 8/ (a − 8) } |19a/(a+11)(a−8)|5|
+|4|Simplify { 12 / (x − 12) } − { 6/ (x − 6) } |6x /(x − 12)(x − 6) |5|
+|3|Simplify { 2 / xy } + {4 / xz }+ { 3 / yz }|(3x + 4y+ 2z) / xyz|5|
+|4|Simplify { 5 / (t − 2) } − { 1 /(t − 3) } |4(t − 3)/ (t − 2)(t − 3)|5|
+|4|Simplify { (k + 2) /  (k^2 + 2) } − { (1/ (k + 2) } |2(k + 2)/(k^2 + 2)(k + 2)|5|
+|4|Simplify { (t + 2) / 3q} + { (t + 1) / 2q } |(5t + 7) / 6q|5|
+|4|Simplify { 3 / (p^2 − 4) } + { 2 / (p − 2)^2 }|(5p − 2) / (p + 2)(p − 2)^2 |5|
+|4|Simplify { x/ (x + y) } + { x^2 / (y^2 − x) } |x(2x − y) / (x + y)(x − y) |5|
+|4|Simplify { 1 / (m + n) } + { 3mn / (m^3 + n^3) } | (m + n) / (m^2 − mn + n^2)|5|
+|4|Simplify { h / (h^3 − f^3) } − { 1 / (h^2 + hf + f) } |f / (h + f)(h^2 + hf + f^2)|5|
+|4|Simplify { (x^2 − 1) / 3 } × { 1 / (x − 1) } − 1 / 2 } | (2x − 1) / 6|5|
+|4|Simplify { (x^2 − 2x + 1) / (x − 1)^3 } − { (x^2 + x + 1) / (x^3 − 1) }|0|5|
+|4|Simplify { 1 / (x − 1)^2 } − { 2x / (x^3 − 1) } |-(x^2 - 3x - 1)/ (x − 1)^2(x^2 + x + 1) |5|
+|5|Simplify { (t^2 + 2t − 8) / (t^2 + t − 6) } + { 1 / (t^2 − 9) } + { (t + 1) / (t − 3) } |(2t^2 + 5t − 8) / (t - 3)(t + 3)|5|
+|5|Simplify  (x^2 − 3x + 9) / (x^3 + 27)  + { (x − 2) / (x^2 + 4x + 3) } − {1 / (x − 2) }  |(x^2 − 9x − 1) / (x + 3)(x + 1)(x − 2)|5|
+|5|Simplify  1 / (a^2 − 4ab + 4b^2)  + { (a^2 + 2ab + b^2) / (a^3 − 8b^3) } − { 1 / (a^2 − 4b) }) }|(a^2 + 4b − 4b^2) / (a − 2b)^2(a + 2b)|-1|
+|2|What are the restrictions in {1 / (x - 2) }|2|5|
+|2|What are the restrictions in { (3x − 9) / (4x + 4) } |-1|5|
+|3|What are the restrictions in { 3 / (x − 1) } - { 1 / (x^2 − 1) } ** Write values that are impossible from the smallest to the biggest **|-1,0,1|5|

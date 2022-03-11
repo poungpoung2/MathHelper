@@ -1,0 +1,62 @@
+|2|Find all the unknown angles. (x, y, p, r, s)|(60,20,20,160,30)|153|
+|1|Find all the unknown angles. (a, b, c, d, e, f, g)|(138, 42, 138, 138, 42, 42, 138)|154|
+|1|Find the value of x in the figure|70|155|
+|2|Find  all the unknown angles (x, y, p, r, s)|(55, 45, 45, 145, 35)|156|
+|2|Find  all the unknown angles (a, b, c, d, e)|(50, 40, 140, 40, 40)|157|
+|2|Determine if the two triangles are congruent. Use the result to find x, y and z. (x, y, z)|(4, 35, 5)|158|
+|1|Calculate the unknown variables (x, y)|(72, 72)|159|
+|2|Calculate the unknown variables |98|160|
+|1|Calculate the unknown variables (x,y)|(44, 112)|161|
+|1|Calculate the unknown variables |29|162|
+|1|Calculate the unknown variables |25|163|
+|3|Calculate the unknown variables (x, y) |(18, 4)|164|
+|3|Calculate the unknown variables (x, y) |(12, 13)|165|
+|3|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|SAS|166|
+|4|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|not|167|
+|3|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|not|168|
+|3|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|not|169|
+|4|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|ASA|170|
+|4|PQRS is a parallelogram. PS = OS and QO = QR. ∠SOR = 96◦ and ∠QOR = x. Calculate the value of x|28|171|
+|3|Calculate the unknown variables (x, y) |(12, 13)|165|
+|2|Give the most specific name for the shape.|rectangle|172|
+|2|Give the most specific name for the shape.|rhombus|173|
+|2|Give the most specific name for the shape.|quadrilateral|174|
+|2|Give the most specific name for the shape.|kite|175|
+|2|Give the most specific name for the shape.|square|176|
+|5|Find the area of ACDF if AB = 8, BF = 17, FE = EC, BE = ED, ∠A = 90° , ∠CED = 90°.|315|177|
+|1|Identify the side that is parallel to AC in correct order. |ED|178|
+|1|Identify the side that is parallel to PR in correct order. |TS|179|
+|2|Determine the value of ∠DCE |91|180|
+|2|Complete the following statement correctly by giving the three vertices in the correct order (there is only one correct answer). △DEC is equal to △? |DAB|180|
+|2|Determine the value of ∠KJL |60|181|
+|2|Complete the following statement correctly by giving the three vertices in the correct order (there is only one correct answer). △HKG is equal to △? |JKL|181|
+|1|Determine the value of x|6|182|
+|2|Determine the value of WY|11|183|
+|2|Determine the value of XY|4|184|
+|1|Find x|14|185|
+|1|Find x in decimal|3.5|186|
+|3|Find x|5|187|
+|3|Find x and y (x, y)|(28, 100)|188|
+|3|In the following diagram PQ = 2.5 and RT = 6.5. Find x and y in nearest hundredth (x, y)|(24, 13.93)|189|
+|3|You are now told that MN has a length of 18. What is the value of a? Give your answer as a decimal.|-2.5|190|
+|3|You are now told that PR has a length of 18. What is the value of a?|18|191|
+|4|You are now told that ∠ECD has a measure of 72° . Calculate for the value of q.|18|192|
+|4|You are now told that Kˆ has a measure of 74◦ . Solve for the value of b. Give your answer as a fraction.|16/3|193|
+|2|A trapezium is a quadrilateral with two pairs of opposite sides that are parallel. Type T/F|F|-1|
+|2|Both diagonals of a parallelogram bisect each other. Type T/F|T|-1|
+|2|A rectangle is a parallelogram that has all interior angles equal to 90°. Type T/F|T|-1|
+|2|Two adjacent sides of a rhombus have different lengths. Type T/F|F|-1|
+|2|The diagonals of a kite intersect at right angles. Type T/F|T|-1|
+|2|All squares are parallelograms. Type T/F|T|-1|
+|2|A rhombus is a kite with a pair of equal, opposite sides. Type T/F|T|-1|
+|2|The diagonals of a parallelogram are axes of symmetry. Type T/F|T|-1|
+|2|The diagonals of a rhombus are equal in length. Type T/F|F|-1|
+|2|Both diagonals of a kite bisect the interior angles. Type T/F|F|-1|
+|2|Find angles a, b, c and d. (a, b, c, d)|(107, 73, 107, 73)|194|
+|1|Find angles a, b, c and d. (a, b, c, d)|(80, 80, 80, 80)|195|
+|2|Find angles a, b, c and d. (a, b, c, d)|(50, 45, 95, 85)|196|
+|3|Find each of the unknown angles. (x, y, p, r, s)|(45, 50, 45, 135, 45)|197|
+|3|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|SSS|198|
+|3|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|RHS|199|
+|2|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|ASA|200|
+|2|State whether the following pairs of triangles are congruent or not. If it is not, type not. If it is, write the reason|not|201|

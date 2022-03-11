@@ -1,0 +1,86 @@
+|1|Find the area of the polygon|25|260|
+|1|Find the area of the polygon|50|261|
+|2|Find the area of the polygon to nearest hundredth|78.54|262|
+|2|Find the area of the polygon|40|263|
+|2|Find the area of the polygon|60|264|
+|3|Find the area of the polygon|12|265|
+|3|Find the area of the polygon to nearest hundredth|43.3|266|
+|2|Find the area of the polygon|276|267|
+|3|Find the surface area of the following rectangular prism|160|268|
+|3|Find the surface area of the following triangular prism|240|269|
+|3|Find the surface area of the following cylinder (correct to 1 decimal place)|2513.3|270|
+|3|Find the surface area of the following rectangular prism|344|271|
+|3|Find the surface area of the following triangular prism (correct to 2 decimal place)|240|272|
+|3|Find the surface area of the following cylinder (correct to 2 decimal place)|87.96|273|
+|3|Find the surface area of the following cylinder (correct to 2 decimal place)|471.24|274|
+|3|Find the surface area of the following rectangular prism|270|275|
+|3|Find the surface area of the following triangular prism|532.84|276|
+|4|If a litre of paint covers an area of 2m^2 how much paint does a painter need to cover a rectangular swimming pool with dimensions 4 m × 3 m × 2,5 m (the inside walls and floor only)|24|-1|
+|4|If a litre of paint covers an area of 2m^2 how much paint does a painter need to cover the inside walls and floor of a circular reservoir with diameter 4 m and height 2.5 m.|22|277|
+|2|Find the volume of the following triangular prism|40|279|
+|3|Find the volume of the following cylinder (correct to 1 decimal place)|754|280|
+|2|Calculate the volumes of the following prisms (correct to 1 decimal place)|420|281|
+|2|Calculate the volumes of the following prisms (correct to 1 decimal place)|500|282|
+|2|Calculate the volumes of the following prisms (correct to 1 decimal place)|785.4|283|
+|2|Calculate the volumes of the following prisms (correct to 2 decimal place)|32.06|284|
+|2|Calculate the volumes of the following prisms (correct to 2 decimal place)|1056|285|
+|2|Calculate the volumes of the following cylinder (correct to 2 decimal place)|552.92|286|
+|3|Find the surface area of the following triangular pyramid (correct to one decimal place)|105.6|287|
+|3|Find the surface area of the following cone (correct to 1 decimal place)|233.2|288|
+|3|Find the surface area of the following sphere (correct to 1 decimal place)|314.2|289|
+|3|Find the total surface area of the following objects (correct to 1 decimal place if necessary)|282.7|290|
+|3|Find the total surface area of the following objects (correct to 1 decimal place if necessary)|45.6|291|
+|3|Find the total surface area of the following objects (correct to 1 decimal place if necessary)|180|292|
+|3|Find the total surface area of the following objects (correct to 1 decimal place if necessary)|1256.6|293|
+|3|Find the total surface area of the following objects (correct to 2 decimal places)|175.93|294|
+|3|Find the total surface area of the following objects (correct to 2 decimal places)|804.25|295|
+|4|Find the total surface area of the following objects (correct to 2 decimal places)|189|296|
+|2|Find the volume of a square pyramid with a height of 3 cm and a side length of 2 cm.|4|-1|
+|2|Find the volume of the following triangular pyramid (correct to 1 decimal place)|105.3|297|
+|2|Find the volume of the following triangular pyramid (correct to 1 decimal place)|103.7|298|
+|2|Find the volume of the following sphere (correct to 1 decimal place)|268.1|299|
+|4|Find the volume of the following (correct to 1 decimal place)|7967.4|300|
+|2|Determine the volume of the figure. Round your answer to two decimal places.|2144.66|301|
+|2|Determine the volume of the figure. Round your answer to two decimal places.|29.32|302|
+|3|Determine the volume of the figure. Round your answer to two decimal places.|107.67|303|
+|3|Find the volume of the following objects (round off to 1 decimal place if needed)|314.16|304|
+|4|Find the volume of the following objects (round off to 1 decimal place if needed)|52|305|
+|2|Find the volume of the following objects (round off to 1 decimal place if needed)|144|306|
+|2|Find the volume of the following objects (round off to 1 decimal place if needed)|4188.8|307|
+|3|Find the surface area and volume of the cone shown here. Round your answers to the nearest integer. (Surface area, Volume)|(393, 507)|308|
+|3|Find the surface area and volume of the pyramid shown here. Round your answers to nearest hundredth. (Surface area, Volume)|(91.39, 29.39)|309|
+|4|Find the surface area and volume of the object shown here. (correct to 1 decimal place). (Surface area, Volume)|(190, 175)|310|
+|1|Find the area of each of the shapes shown. Round your answer to two decimal places if necessary.|75|311|
+|1|Find the area of each of the shapes shown. Round your answer to two decimal places if necessary.|153.94|312|
+|1|Find the area of each of the shapes shown. Round your answer to two decimal places if necessary.|252.76|313|
+|3|Find the surface area of the figure.|420|314|
+|3|Find the surface area of the figure.|210|315|
+|3|Find the surface area of the figure to nearest hundredth.|640.88|316|
+|2|Determine the volume of the figure.|360|317|
+|2|Determine the volume of the figure.|300|318|
+|2|Determine the volume of the figure.|1847.26|319|
+|2|Determine the volume of the figure.|615.75|320|
+|4|Determine the surface area of the pyramid to nearest oneth.|88|321|
+|3|Find the surface area of the figure.Round your answer two decimal places.|103.67|322|
+|2|Determine the volume of the figure. Round your answer to two decimal places.|113.1|323|
+|2|Find the volume of the figure. Round your answer to two decimal places.|183.26|324|
+|2|Find the volume of the figure. Round your answer to two decimal places.|130.67|325|
+|3|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(126.67, 94.25)|326|
+|3|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(437.26, 900)|327|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(150.8, 134.04)|328|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(460.64, 588)|329|
+|5|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(30159.52, 301592.88)|330|
+|5|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(3665.19, 1194.67)|331|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(2148.85, 867.08)|332|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(600, 600.37)|333|
+|5|An ice-cream cone (right cone) has a radius of 3 cm and a height of 12 cm. A half scoop of ice-cream(hemisphere) is placed on top of the cone. If the ice-cream melts, will it fit into the cone? Type T/F|T|-1|
+|5|A receptacle filled with petrol has the shape of an inverted right circular cone of height 120 cm and base radius of 60 cm. A certain amount of fuel is siphoned out of the receptacle leaving a depth of h cm. Determine the volume of fuel that has been siphoned out. Express your answer in litres|261.5|334|
+|3|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(47123.89, 1570.8)|335|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(92.38, 180.04)|336|
+|4|Find the surface area and volume of the figure. Round your answer to two decimal places. Answer: (S.A, V)|(1200, 866)|337|
+|3|Find the volume of the figure. Round your answer to three decimal places.|2412.745|338|
+|3|ABCD is a square, AC = 12 cm, AP = 10 cm. Find the volume of the figure. Round your answer to two decimal places.|645.07|339|
+|4|The prism alongside has the following dimensions: AB = 4 units, EC = 8 units, AF = 10 units. BC is an arc of a circle with centre D. AB ∥ EC. Find the volume of the prism|285.664|340|
+|5|Find the volyme of the object. Round your answer to three decimal places|74.626|341|
+|5|The length of the side of the pyramid BC =755.79 feet and the height of the pyramid is 481.4 feet. Find the surface area of the figure round to two decmial places|1496313.62|342|
+|5|The length of the side of the pyramid BC =755.79 feet and the height of the pyramid is 481.4 feet. Find the volume of the figure round to one decmial places|91661532.5|342|

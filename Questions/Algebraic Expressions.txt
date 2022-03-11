@@ -1,0 +1,60 @@
+|1|Is π a rational number? (Type T/F)|F|-1|
+|1|Is 4 a rational number? (Type T/F)|T|-1|
+|1|Is 1.6183389… a rational number? (Type T/F)|F|-1|
+|1|Is 1.737373.. a rational number? (Type T/F)|T|-1|
+|1|Is 0.0202020… a rational number(Type T/F)|T|-1|
+|2|Write 5.432432.. as a rational fraction.|201/37|-1|
+|2|Where does 12/3 belong in this Venn diagram|N0|0|
+|2|Which of the statements is true? a.Every integer is a natural number b.Every natural number is a whole number c.There are no decimals in the whole numbers|b|-1|
+|2|Where does -1/2 belongs in this Venn diagram?|Q|1|
+|2|Which of the statements is true? a.Every integer is a natural number b.Every whole number is an integer c.There are no decimals in the whole numbers|b|-1|
+|1|State whether √3 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|1|-1|
+|1|State whether 0/√2 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|1|-1|
+|1|State whether √-9 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|2|-1|
+|1|State whether -√7/0 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|3|-1|
+|1|State whether -√-16 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|2|-1|
+|1|State whether √2 is real, non-real, or undefined (1.real 2.non-real 3.undefined)|1|-1|
+|2|If a is an integer, b is an integer, and c is irrational, which of the following are rational numbers. a)⅚. b)a/3. c)-2/b  d)1/c|a,b,c|-1|
+|3|How many irrational numbers are in the list. {−3 ; 0 ; √−1 ; −44/8 ; −√8 ; 22/7 ; 14/0 ; 7 ; 1.3434... ; 3,3231089... ; 3 + √2 ; 97/10 ; π ; 11}|4|-1|
+|3|How many rational numbers are in the list. {−3 ; 0 ; √−1 ; −44/8 ; −√8 ; 22/7 ; 14/0 ; 7 ; 1.3434... ; 3,3231089... ; 3 + √2 ; 97/10 ; π ; 11}|8|-1|
+|1|Write 0.1 as fraction|1/10|-1|
+|1|Write 0.12 as fraction|3/25|-1|
+|1|Write 0.58 as fraction|29/50|-1|
+|1|Write 0.2589 as fraction|2589/10000|-1|
+|2|Write 25/45 in decimal form. (eg.if 0.555.. Write answer like 0.5)|0.5|-1|
+|2|Write 10/18 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|0.5|-1|
+|3|Write 7/33 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|0.21|-1|
+|3|Write 7/33 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|0.21|-1|
+|2|Write 2/3 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|0.6|-1|
+|3|Write 13/11 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|1.27|-1|
+|4|Write 29/6 in decimal form. (eg. if 0.19888.. Write answer like 0.1988)|4.833|-1|
+|3|Write 19/9 in decimal form. (eg.if 0.9595.. Write answer like 0.95)|2.1|-1|
+|2|Write 0.555.. in fractional form|5/9|-1|
+|4|Write 0.6333.. in fractional form|19/30|-1|
+|4|Write 5.432432 in fractional form|201/37|-1|
+|5|A and B are 1-digit prime numbers. When 0.abab...+0.baba...=0.77777, what is a-b (a>b).|3|-1|
+|5|1/7 can be expressed 0.142857142857... in decimal form. Get the 2013rd decimal point of 3/7|8|-1|
+|2|Write 0.44.. in fractional form|4/9|-1|
+|3|Write 5.3131 in fractional form|526/99|-1|
+|3|Write 4.9393.. in fractional form|163/33|-1|
+|4|Write 3.9393 in fractional form|130/33|-1|
+|2|Round off 345.04399906 to 4 decimal places.|345.0440|-1|
+|1|Round off 1361.72980445 to 2 decimal places.|1361.73|-1|
+|4|Round off 1/27 to 4 decimal places.|0.0370|-1|
+|3|Round off 15/33 to 5 decimal places.|0.45455|-1|
+|3|Round off 1/12 to 2 decimal places.|0.83|-1|
+|2|Calculate the area of ABDE to 2 decimal places|9.87|2|
+|2|Calculate the area of BCD to 2 decimal places|4.93|2|
+|2|Calculate the area of ABCDE to 1 decimal place|14.8|2|
+|2|If it takes 1 person to carry 3 boxes, how many people are needed to carry 31 boxes|11|-1|
+|2|If 7 tickles cost 35.20, how much does one ticket cost (Round off to 2 decimal places).|5.03|-1|
+|1|Determine between which two consecutive integers √18 lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|4,5|-1|
+|1|Determine between which two consecutive integers √29 lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|5,6|-1|
+|1|Determine between which two consecutive integers 3√5 (cube root) lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|1,2|-1|
+|2|Determine between which two consecutive integers 3√79 (cube root) lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|4,5|-1|
+|2|Determine between which two consecutive integers √155 lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|12,13|-1|
+|2|Determine between which two consecutive integers √71 lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|8,9|-1|
+|2|Determine between which two consecutive integers 3√215 (cube root) lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|5,6|-1|
+|1|Determine between which two consecutive integers 3√123 (cube root) lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|4,5|-1|
+|1|Determine between which two consecutive integers 3√81 (cube root) lies. (Write smaller one first and use comma eg)√2->Answer:1,2)|4,5|-1|
+|4|Without using a calculator, rank all the numbers in ascending order (use comma) {27/7; √19 ; 2π ;0,45 ; 0.4545.. ; −√(9/4); 6 ; −√8 ; √51}|−√8,-√(9/4),0.45,0.4545..,27/7,√19,6,2π,√51|-1|

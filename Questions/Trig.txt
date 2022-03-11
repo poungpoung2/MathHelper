@@ -1,0 +1,48 @@
+|3|Shown the following graph of the following form: y = a sin θ + q where Point A is at (180°, 1.5), and Point B is at (90°, 3), find the values of a and q. Answer (a, q)|(3/2, 3/2)|93|
+|3|Shown the following graph of the following form: y = a sin θ + q where Point A is at (270°, -6), and Point B is at (90°, 2), find the values of a and q. Answer (a, q)|(4, -2)|94|
+|3|Shown the following graph of the following form: y = a cos θ + q where Point A is at (180°, -1.5), and Point B is at (0°, -0.5), find the values of a and q. Answer (a, q)|(1/2, -1)|95|
+|3|Shown the following graph of the following form: y = a cos θ + q where Point A is at (90°, 0), and Point B is at (180°, -0.5), find the values of a and q. Answer (a, q)|(1/2, 0)|96|
+|3|Shown the following graph of the following form: y = a tan θ + q where Point A is at (0°, 1/3), and Point B is at (45°, 10/3), find the values of a and q. Answer (a, q)|(3, 1/3)|97|
+|3|Shown the following graph of the following form: y = a tan θ + q where Point A is at (0°, 0), and Point B is at (45°, 1), find the values of a and q. Answer (a, q)|(3, 1/3)|98|
+|3|Shown the following graph of the following form: y = a sin θ + q where Point A is at (90°, 4.5), and Point B is at (180°, 3), find the values of a and q. Answer (a, q)|(3/2, 3)|131|
+|3|Shown the following graph of the following form: y = a cos θ + q where Point A is at (90°, 0), and Point B is at (180°, -3), find the values of a and q. Answer (a, q)|(3, 0)|132|
+|3|Shown the following graph of the following form: y = a cos θ + q where Point A is at (0°, -3), and Point B is at (45°, -2), find the values of a and q. Answer (a, q)|(1, -3)|133|
+|2|Identify a function that matches y = sin θ|h(x)|99|
+|2|Identify a function that matches y = sin θ/2|k(x)|99|
+|2|Identify a function that matches y = 3 sin θ|f(x)|99|
+|2|Identify a function that matches y = 2 sin θ|g(x)|99|
+|2|Identify a function that matches y = 2.3 cos θ|g(x)|134|
+|2|Identify a function that matches y = 0.75 cos θ|f(x)|134|
+|2|Identify a function that matches y = 4 cos θ|k(x)|134|
+|2|Identify a function that matches y = 3 cos θ|h(x)|134|
+|2|What is the equation for g(x)?|g(x) = 4sinθ|100|
+|2|What is the range of the function?|-2<=y<=2|114, 135|
+|2|What is the range of the function?|-2<=y<=2|114, 136|
+|2|What is the range of the function?|-2<=y<=0|114, 101|
+|2|What is the range of the function?|0<=y<=4|114, 102|
+|2|What is the range of the function?|-5/2<=y<=-1/2|114, 103|
+|2|What is the range of the function?|1/2<=y<=9/2|114, 104|
+|1|State the coordinates at E?|(180, 1)|114, 105|
+|4|Write a sine equation for the follwing graph Answer: y= (-180<c<0). |y=2sin(x - 90)|114, 106|
+|4|Write a cosine equation for the follwing graph Answer: y= (-180<c<0). |y=cos(x-90)+1|114, 107|
+|2|For which values of θ is the function increasing, in the interval shown?|90<θ<270|114, 108|
+|2|For which values of θ is the function negative, in the interval shown?|0<θ<210, 330<θ<360|114, 109|
+|2|For which values of θ is the function positive, in the interval shown?|60<θ<300|114, 110|
+|2|For which values of θ is the function decreasing, in the interval shown?|0<θ<180|114, 137|
+|2|For which values of θ is the function increasing, in the interval shown?|0<θ<90,270<θ<360|114, 138|
+|2|For which values of θ is the function positive, in the interval shown?|0<θ<360|114, 139|
+|2|How many times in this interval does f(x) intersect g(x)?|2|114, 111|
+|2|What is the amplitude of f(x)?|2|114, 111|
+|2|Evaluate: f(360°) − g(360°).|1|114, 111|
+|2|How many times in this interval does f(x) intersect g(x).|2|114, 112|
+|2|What is the amplitude of g(x)?|3|114, 112|
+|2|Evaluate: f(90°) − g(90°).|1|114, 112|
+|2|How many times in this interval does f(x) intersect g(x).|3|114, 113|
+|2|What is the amplitude of g(x)?|2|114, 113|
+|2|Evaluate: f(270°) − g(270°).|-1|114, 113|
+|4|Determine the equation of the trigonometric function f of the form y = af(θ) + q.Answer:(a, q)|(1, 1/2)|118|
+|4|Given the general equations, determine the specific equations in standard form (y= a sin θ + q).|y=5 sin θ + 1|144|
+|4|Given the general equations, determine the specific equations in standard form (y= a*b^x + q,).|y = 2*2^x + 1|145|
+|4|Given the general equations, determine the specific equations in standard form (y= atan θ + q).|y = − tan θ − 2|146|
+|2|The range of y = 2 sin θ + 1 is a) 1 ≤ θ ≤ 2 b) −2 ≤ θ ≤ 2 c) −1 ≤ θ ≤ 3 d) −2 ≤ θ ≤ 3|c|-1|
+|2|The range of y = 2 cos θ − 4 is: a) -6 ≤ θ ≤ 2 b) −4 ≤ θ ≤ -2 c) −6 ≤ θ ≤ 1 d) −6 ≤ θ ≤ -2|d|-1|
